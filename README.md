@@ -62,3 +62,20 @@ The following tasks have been performed in this project:
 
 <img width="481" alt="" src="https://github.com/user-attachments/assets/411f768e-54e7-48e8-a0fe-9c64cfc3b7e0"/>
 <img width="481" alt="" src="https://github.com/user-attachments/assets/455abb2a-ee41-40f3-86e5-011233c6ed0c"/>
+
+# Project 4: Excel Visualisation
+
+This project utilises [**Bike_Sales_Visualisations.xlsx**](https://github.com/user-attachments/files/19040301/Bike_Sales_Visualisations.xlsx)
+
+## Project Overview
+The following tasks have been performed in this project:
+
+- Created a line chart for Revenue vs Profit
+- Created a bar chart to show the Revenue by Country
+- Created a pie chart to show comparisons between age groups
+
+## Results
+
+<img width="481" alt="" src="https://github.com/user-attachments/assets/f012ff63-53a1-4632-82d8-657b0e9c42d3" />
+<img width="481" alt="" src="https://github.com/user-attachments/assets/601adcc9-5208-43ad-a7d6-05c486f370bb" />
+<img width="481" alt="" src="https://github.com/user-attachments/assets/4dc117a0-baeb-401c-954b-940f1e15c8ea" />
