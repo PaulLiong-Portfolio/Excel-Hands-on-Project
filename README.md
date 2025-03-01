@@ -12,7 +12,7 @@ The following tasks have been performed in this project:
 
 ## Results
 
-<img width="481" alt="396145787-1c49532f-c1b5-4546-9a4b-bf6adac52de9" src="https://github.com/user-attachments/assets/234a56c3-5643-40b2-bb34-88b7832cb01c"/>
+<img width="481" alt="" src="https://github.com/user-attachments/assets/234a56c3-5643-40b2-bb34-88b7832cb01c"/>
 
 # Project 2: Excel **CONDITIONAL FORMATTING** Exploration
 [student_scores.xlsx]
@@ -31,7 +31,7 @@ The following tasks have been performed in this project:
 
 ## Results
 
-<img width="481" alt="396145787-1c49532f-c1b5-4546-9a4b-bf6adac52de9" src="https://github.com/user-attachments/assets/eb06bfab-5464-425c-88a0-758faadb1f19"/>
+<img width="481" alt="" src="https://github.com/user-attachments/assets/eb06bfab-5464-425c-88a0-758faadb1f19"/>
 
 # Project 3: Excel **PIVOT TABLES** Exploration
 
@@ -60,5 +60,5 @@ The following tasks have been performed in this project:
 
 ## Results
 
-<img width="481" alt="396145787-1c49532f-c1b5-4546-9a4b-bf6adac52de9" src="https://github.com/user-attachments/assets/411f768e-54e7-48e8-a0fe-9c64cfc3b7e0"/>
-<img width="481" alt="396145787-1c49532f-c1b5-4546-9a4b-bf6adac52de9" src="https://github.com/user-attachments/assets/455abb2a-ee41-40f3-86e5-011233c6ed0c"/>
+<img width="481" alt="" src="https://github.com/user-attachments/assets/411f768e-54e7-48e8-a0fe-9c64cfc3b7e0"/>
+<img width="481" alt="" src="https://github.com/user-attachments/assets/455abb2a-ee41-40f3-86e5-011233c6ed0c"/>
