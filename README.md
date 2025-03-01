@@ -63,7 +63,7 @@ The following tasks have been performed in this project:
 <img width="481" alt="" src="https://github.com/user-attachments/assets/411f768e-54e7-48e8-a0fe-9c64cfc3b7e0"/>
 <img width="481" alt="" src="https://github.com/user-attachments/assets/455abb2a-ee41-40f3-86e5-011233c6ed0c"/>
 
-# Project 4: Excel Visualisation
+# Project 5: Excel Visualisation
 
 This project utilises [**Bike_Sales_Visualisations.xlsx**](https://github.com/user-attachments/files/19040301/Bike_Sales_Visualisations.xlsx)
 
