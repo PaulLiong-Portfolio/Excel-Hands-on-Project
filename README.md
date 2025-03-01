@@ -12,8 +12,7 @@ The following tasks have been performed in this project:
 
 ## Results
 
-![Screenshot of Result](https://github.com/user-attachments/assets/234a56c3-5643-40b2-bb34-88b7832cb01c)
-
+<img width="481" alt="396145787-1c49532f-c1b5-4546-9a4b-bf6adac52de9" src="https://github.com/user-attachments/assets/234a56c3-5643-40b2-bb34-88b7832cb01c"/>
 
 # Project 2: Excel **CONDITIONAL FORMATTING** Exploration
 [student_scores.xlsx]
@@ -32,7 +31,7 @@ The following tasks have been performed in this project:
 
 ## Results
 
-![Screenshot of Result](https://github.com/user-attachments/assets/eb06bfab-5464-425c-88a0-758faadb1f19)
+<img width="481" alt="396145787-1c49532f-c1b5-4546-9a4b-bf6adac52de9" src="https://github.com/user-attachments/assets/eb06bfab-5464-425c-88a0-758faadb1f19"/>
 
 # Project 3: Excel **PIVOT TABLES** Exploration
 
@@ -48,6 +47,7 @@ The following tasks have been performed in this project:
 ## Results
 
 <img width="481" alt="396145787-1c49532f-c1b5-4546-9a4b-bf6adac52de9" src="https://github.com/user-attachments/assets/b5b7a389-2180-4af8-939a-db4528e12502"/>
+
 # Project 4: Excel **SWITCH & PIVOT TABLES** Function Exploration
 
 This project utilises [Product_Sales.xlsx](https://github.com/user-attachments/files/19040020/Product_Sales.xlsx)
