@@ -33,3 +33,18 @@ The following tasks have been performed in this project:
 ## Results
 
 ![Screenshot of Result](https://github.com/user-attachments/assets/eb06bfab-5464-425c-88a0-758faadb1f19)
+
+# Project 3: Excel Pivot Tables Exploration
+
+This project utilises [**Bike_Sales_Pivot.xlsx**](https://github.com/user-attachments/files/19039956/Bike_Sales_Pivot.xlsx)
+
+## Project Overview
+The following tasks have been performed in this project:
+
+
+- Created a pviot table using the age group, gender and location columns
+- Used the pivot table to produce a stacked bar chart to show which genders in which age groups had highest sales in each area
+
+## Results
+
+![Screenshot of Result](https://github.com/user-attachments/assets/b5b7a389-2180-4af8-939a-db4528e12502)
