@@ -1,8 +1,10 @@
 
 # Project 1: Excel Build In Function Exploration
 
-## Dataset Used
-This project utilises the **retail_sales** dataset: `retail_sales_dataset.xlsx`
+
+
+
+This project utilises [**retail_sales_dataset.xlsx**](https://github.com/user-attachments/files/19039651/retail_sales_dataset.xlsx)
 
 ## Project Overview
 The following tasks have been performed in this project:
