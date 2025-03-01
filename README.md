@@ -61,6 +61,5 @@ The following tasks have been performed in this project:
 
 ## Results
 
-![Screenshot of Result](https://github.com/user-attachments/assets/411f768e-54e7-48e8-a0fe-9c64cfc3b7e0)
-
+<img width="481" alt="396145787-1c49532f-c1b5-4546-9a4b-bf6adac52de9" src="https://github.com/user-attachments/assets/411f768e-54e7-48e8-a0fe-9c64cfc3b7e0" />
 <img width="481" alt="396145787-1c49532f-c1b5-4546-9a4b-bf6adac52de9" src="https://github.com/user-attachments/assets/455abb2a-ee41-40f3-86e5-011233c6ed0c" />
