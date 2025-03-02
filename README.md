@@ -1,7 +1,7 @@
 
 # Project 1: Excel Build In Function Exploration
 
-This project utilises [**retail_sales_dataset.xlsx**](https://github.com/user-attachments/files/19039651/retail_sales_dataset.xlsx)
+Dataset Used: [**retail_sales_dataset.xlsx**](https://github.com/user-attachments/files/19039651/retail_sales_dataset.xlsx)
 
 ## Project Overview
 The following tasks have been performed in this project:
@@ -15,9 +15,8 @@ The following tasks have been performed in this project:
 <img width="481" alt="" src="https://github.com/user-attachments/assets/234a56c3-5643-40b2-bb34-88b7832cb01c"/>
 
 # Project 2: Excel **CONDITIONAL FORMATTING** Exploration
-[student_scores.xlsx]
 
-This project utilises [**student_scores.xlsx**](https://github.com/user-attachments/files/19039795/student_scores.xlsx)
+Dataset Used: [**student_scores.xlsx**](https://github.com/user-attachments/files/19039795/student_scores.xlsx)
 
 ## Project Overview
 The following tasks have been performed in this project:
@@ -50,7 +49,7 @@ The following tasks have been performed in this project:
 
 # Project 4: Excel **SWITCH & PIVOT TABLES** Function Exploration
 
-This project utilises [Product_Sales.xlsx](https://github.com/user-attachments/files/19040020/Product_Sales.xlsx)
+Dataset Used: [Product_Sales.xlsx](https://github.com/user-attachments/files/19040020/Product_Sales.xlsx)
 
 ## Project Overview
 The following tasks have been performed in this project:
@@ -65,7 +64,7 @@ The following tasks have been performed in this project:
 
 # Project 5: Excel Visualisation
 
-This project utilises [**Bike_Sales_Visualisations.xlsx**](https://github.com/user-attachments/files/19040301/Bike_Sales_Visualisations.xlsx)
+Dataset Used: [**Bike_Sales_Visualisations.xlsx**](https://github.com/user-attachments/files/19040301/Bike_Sales_Visualisations.xlsx)
 
 ## Project Overview
 The following tasks have been performed in this project:
